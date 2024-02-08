@@ -22,5 +22,9 @@ En sudoku.cpp esta tanto la logica como el design de la UI.
 
 El sudoku es generado comprobando que en cada casilla puede ser agregado un numero aleatorio o no. Asi una por una barriendo el grid, por lo que solo es posible generar sudokus validos.
 
+### Ejecucion
+
+Dentro de el repositorio esta la carpeta release, la cual es la que contiene la build RELEASE del proyecto, con solo descargar el .exe deberias de poder jugar al sudoku sin ningun problema.
+
 ### Compilacion
 Si queres modificar y compilar el codigo utiliza la version Qt5.15.2 MSVC2019_64bit, con ese esta desarrollado y compilado el proyecto. Si quieren utilizar mi codigo no hay ningun problema :p
