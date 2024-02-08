@@ -1,5 +1,6 @@
 # SUDOKU
 Powered by Qt5.15
+
 ![image](https://github.com/JuanSobalvarro/SudokuQt/assets/114633789/4fc15f39-1877-4041-a723-ba9cde11ad7d)
 
 ## Uso
